@@ -21,19 +21,20 @@ Some questions that may arise are:
 ------
 Overall, the purpose of this project is to learn about database schemas and different countries. This is an on going project where we can add in more country wide data. Some country wide data includes population, poverty, stock markets, etc. This dataset can be used by marketing teams to find more about their demographics.
 
-Download the files in your working directory and run the code.
+Download the files in your working directory and run the code.   
+
 Weather
 Source: https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
-File format = csv
+File format = csv   
 
 Global Domestic Product per Capita
 Source: https://data.worldbank.org/
-File format = xlsx
+File format = xlsx   
 
 Big Five Personality
-Source: https://openpsychometrics.org/_rawdata/
-File format = csv
+Source: https://openpsychometrics.org/tests/IPIP-BFFM/
+File format = csv   
 
-Country Codes
+Country Codes  
 Source: https://www.iban.com/country-codes
-File format = html
+File format = html   
