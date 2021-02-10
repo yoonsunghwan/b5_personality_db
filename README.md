@@ -24,17 +24,17 @@ Overall, the purpose of this project is to learn about database schemas and diff
 Download the files in your working directory and run the code.   
 
 Weather
-Source: https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
-File format = csv   
+Source: https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data   
+File format = csv    
 
-Global Domestic Product per Capita
-Source: https://data.worldbank.org/
-File format = xlsx   
+Global Domestic Product per Capita     
+Source: https://data.worldbank.org/     
+File format = xlsx      
 
-Big Five Personality
-Source: https://openpsychometrics.org/tests/IPIP-BFFM/
-File format = csv   
-
-Country Codes  
-Source: https://www.iban.com/country-codes
-File format = html   
+Big Five Personality   
+Source: https://openpsychometrics.org/tests/IPIP-BFFM/    
+File format = csv     
+  
+Country Codes     
+Source: https://www.iban.com/country-codes     
+File format = html     
